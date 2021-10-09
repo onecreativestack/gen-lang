@@ -16,7 +16,7 @@ You have several options
 
 - 1. Pull requests
 - 2. Write me privately on Discord (mvmo#9595)
-- 3. Get on Discord for the project
+- 3. Get on Discord for the project --> [Click here](https://discord.gg/K8n3HFEG4y)
 
 I will be happy if there are some people who can understand my vision and have similar views as me, but I am also open for criticism.
 
