@@ -10,11 +10,13 @@ I want to rethink all aspects of web programming as much as possible and make we
 
 ## How to contribute
 
-I will be happy to hear from anyone who wants to help me make web development enjoyable again. You have several options
+I will be happy to hear from anyone who wants to help me make web development enjoyable again. 
 
-1.) Pull requests
-2.) Write me privately on Discord (mvmo#9595)
-3.) Get on Discord for the project
+You have several options
+
+- 1. Pull requests
+- 2. Write me privately on Discord (mvmo#9595)
+- 3. Get on Discord for the project
 
 I will be happy if there are some people who can understand my vision and have similar views as me, but I am also open for criticism.
 
