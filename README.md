@@ -8,7 +8,7 @@ JavaScript is not a programming language designed to implement modern backends. 
 
 I want to rethink all aspects of web programming as much as possible and make web programming more accessible This doesn't This doesn't mean that I just blindly want to do everything differently, but in some places it has to be different
 
-## How to contribute
+## Can I contribute and how?
 
 I will be happy to hear from anyone who wants to help me make web development enjoyable again. 
 
@@ -18,5 +18,11 @@ You have several options
 - 2. Write me privately on Discord (mvmo#9595)
 - 3. Get on Discord for the project --> [Click here](https://discord.gg/K8n3HFEG4y)
 
-I will be happy if there are some people who can understand my vision and have similar views as me, but I am also open for criticism.
+I would be happy to hear from you. Whether you like my views or want to criticize them 
+
+# How do you want to do the whole thing and go about it?
+
+The whole thing has been on my mind for a while, so I've already made some thoughts about it, which I will consolidate in the coming days/weeks. For this I will use this repository. As soon as I am really satisfied with a first concept, I will start with the implementation.
+So it is also unclear which programming language I will use for the implementation in the end.
+Join the project now and be part of it from the start 
 
